@@ -10,5 +10,7 @@ public class coffee {
 		System.out.println("coffee123");System.out.println("coffee123");
 		
 		System.out.println("jjjjjjjjjjj");
+		System.out.println("kkkkkkkkkkkkk");
+		System.out.println("iiiiiiiiiiii");
 	}
 }
